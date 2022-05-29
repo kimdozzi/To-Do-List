@@ -3,7 +3,7 @@ const loginInput = document.querySelector("#login-form input");
 const greeting = document.querySelector("#greeting");
 
 // 일반적으로 string만 포함된 변수는 대문자로 표기하고 string을 저장하고 싶을 때 사용한다.
-// 아주 중요한 정보는 아님.
+// 아주 중요한 정보는 아닌 경우에 대문자변수를 사용한다.
 const HIDDEN_CLASSNAME = "hidden";
 const USERNAME_KEY = "username";
 
